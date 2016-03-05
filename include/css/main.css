@@ -1060,6 +1060,7 @@ nav#menu #menu-nav li a:hover {
 
 #social-area {
     text-align: center;
+		padding-top: 0;
 }
 
 #social-area #social ul {
@@ -1417,4 +1418,10 @@ footer .credits {
 	margin-right: auto;
 	display: block;
 	border-radius: 100%;
+}
+
+.rowSocial {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-table;
 }
