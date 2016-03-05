@@ -682,12 +682,13 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .type-work {
-	color: #FFFFFF;
-	font-size: 24px;
-	font-weight: 300;
-	margin-bottom: 30px;
-	line-height: 1em;
-	text-transform: uppercase;
+	display: none;
+	/*color: #FFFFFF;*/
+	/*font-size: 24px;*/
+	/*font-weight: 300;*/
+	/*margin-bottom: 30px;*/
+	/*line-height: 1em;*/
+	/*text-transform: uppercase;*/
 }
 
 .work-nav #filters {
